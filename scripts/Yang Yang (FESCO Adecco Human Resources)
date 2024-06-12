@@ -1,0 +1,28 @@
+extractsmiles.py
+[14:11:51] Warning: conflicting stereochemistry at atom 48 ignored. by rule 1a.
+[14:11:51] Warning: conflicting stereochemistry at atom 48 ignored. by rule 1a.
+[14:14:35] WARNING: not removing hydrogen atom without neighbors
+[14:15:45] WARNING: not removing hydrogen atom without neighbors
+[14:15:45] WARNING: not removing hydrogen atom without neighbors
+[14:16:52] Warning: conflicting stereochemistry at atom 12 ignored. by rule 1a.
+[14:16:52] Warning: conflicting stereochemistry at atom 12 ignored. by rule 1a.
+[14:16:52] Warning: conflicting stereochemistry at atom 12 ignored. by rule 1a.
+[14:18:10] WARNING: not removing hydrogen atom without neighbors
+[14:18:27] Warning: conflicting stereochemistry at atom 0 ignored. by rule 2b.
+[14:19:12] WARNING: not removing hydrogen atom without neighbors
+[14:19:19] WARNING: not removing hydrogen atom without neighbors
+[14:19:19] Warning: conflicting stereochemistry at atom 8 ignored. by rule 2b.
+[14:19:23] WARNING: not removing hydrogen atom without neighbors
+[14:19:52] Explicit valence for atom # 1 Mg, 4, is greater than permitted
+[14:19:52] ERROR: Could not sanitize molecule ending on line 147717732
+[14:19:52] ERROR: Explicit valence for atom # 1 Mg, 4, is greater than permitted
+[14:19:55] Explicit valence for atom # 0 Mg, 4, is greater than permitted
+[14:19:55] ERROR: Could not sanitize molecule ending on line 148568028
+[14:19:55] ERROR: Explicit valence for atom # 0 Mg, 4, is greater than permitted
+[14:20:55] WARNING: not removing hydrogen atom without neighbors
+[14:20:55] WARNING: not removing hydrogen atom without neighbors
+[14:20:55] WARNING: not removing hydrogen atom without neighbors
+[14:21:32] WARNING: not removing hydrogen atom without neighbors
+[14:21:32] WARNING: not removing hydrogen atom without neighbors
+[14:21:32] WARNING: not removing hydrogen atom without neighbors
+[14:21:32] WARNING: not removing hydrogen atom without neighbors
